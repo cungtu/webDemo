@@ -1,0 +1,3 @@
+com\gst\demo\web\configuration\MvcWebApplicationInitializer.class
+com\gst\demo\web\configuration\MvcWebConfig.class
+com\gst\demo\web\controller\MyController.class
